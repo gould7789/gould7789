@@ -20,3 +20,9 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gould7789&layout=compact&bg_color=60,c2c2d6,00000000&title_color=000000&text_color=000000"
            /> </div> 
     </div>
+ 
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gould7789&theme=tokyonight&hide_border=true" />
+</div>
