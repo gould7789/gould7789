@@ -1,42 +1,71 @@
+<!-- 상단 인사 배너 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Hi!%20I,m%20Hyeonwoo~&animation=scaleIn&fontColor=066539&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=27ae60&height=180&text=Hi!%20I,m%20Hyeonwoo~&animation=scaleIn&fontColor=ffffff&fontSize=50" />
 </div>
 
-<div style="text-align: left;"> 
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2><br>
-</div>
-<div align="center">
+<!-- 방문자 수 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gould7789&label=Profile%20views&color=27ae60&style=flat" />
+</p>
+
+<hr style="border-top: 1px solid #27ae60;">
+
+<!-- 👋 About Me -->
+<h2 align="left" style="color:#2ecc71;">👋 About Me</h2>
+<ul>
+  <li>🏫 Studying programming as a freshman at Youngjin College</li>
+  <li>🇯🇵 Studying with the goal of getting a job in Japan</li>
+</ul>
+
+<hr style="border-top: 1px solid #27ae60;">
+
+<!-- 🛠️ Tech Stack -->
+<h2 align="left" style="color:#2ecc71;">🛠️ Tech Stacks</h2>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
-  <br />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
-</div>
+</p>
 
----
+<hr style="border-top: 1px solid #27ae60;">
 
-<div style="text-align: left;"> 
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gould7789&bg_color=60,c2c2d6,00000000&title_color=000000&text_color=000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gould7789&layout=compact&bg_color=60,c2c2d6,00000000&title_color=000000&text_color=000000" />
-</div>
+<!-- 🏅 GitHub Stats -->
+<h2 align="left" style="color:#2ecc71;">🏅 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gould7789&theme=dark&title_color=2ecc71&text_color=ffffff&icon_color=2ecc71&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gould7789&layout=compact&theme=dark&title_color=2ecc71&text_color=ffffff&hide_border=true" />
+</p>
 
----
+<!-- 🔥 Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gould7789&theme=dark&ring=2ecc71&fire=2ecc71&currStreakLabel=2ecc71&hide_border=true" />
+</p>
 
-<div style="text-align: left;"> 
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🌿 3D Contribution Graph </h2>
-</div>
-<div align="center">
+<hr style="border-top: 1px solid #27ae60;">
+
+<!-- ⏱️ WakaTime -->
+<h2 align="left" style="color:#2ecc71;">⏱️ Coding Time</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gould7789&theme=dark&title_color=2ecc71&text_color=ffffff&hide_border=true" />
+</p>
+
+<hr style="border-top: 1px solid #27ae60;">
+
+<!-- 🌿 3D Contribution Graph -->
+<h2 align="left" style="color:#2ecc71;">🌿 3D Contribution Graph</h2>
+<p align="center">
   <img src="https://raw.githubusercontent.com/gould7789/gould7789/main/profile-3d-contrib/profile-green-animate.svg" />
-</div>
+</p>
 
----
+<hr style="border-top: 1px solid #27ae60;">
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gould7789&theme=tokyonight&hide_border=true" />
-</div>
+<!-- 깃허브 뱃지 추가 (optional) -->
+<p align="center">
+  <a href="https://github.com/gould7789">
+    <img src="https://img.shields.io/github/followers/gould7789?label=Follow&style=social" />
+  </a>
+</p>
 
