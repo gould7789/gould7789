@@ -11,11 +11,13 @@
 <hr style="border-top: 1px solid #27ae60;">
 
 <!-- 👋 About Me -->
-<h2 align="left" style="color:#2ecc71;">👋 About Me</h2>
-<ul>
-  <li>🏫 Studying programming as a freshman at Youngjin College</li>
-  <li>🇯🇵 Studying with the goal of getting a job in Japan</li>
-</ul>
+## 👋 About Me
+
+### 🏫 Studying programming as a freshman at Youngjin College  
+### 🇯🇵 Studying with the goal of getting a job in Japan
+
+
+
 
 <hr style="border-top: 1px solid #27ae60;">
 
