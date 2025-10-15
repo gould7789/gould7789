@@ -45,16 +45,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gould7789&theme=dark&ring=2ecc71&fire=2ecc71&currStreakLabel=2ecc71&hide_border=true" />
 </p>
 
-<hr style="border-top: 1px solid #27ae60;">
-
 <!-- ⏱️ WakaTime -->
-<h2 align="left" style="color:#2ecc71;">⏱️ Coding Time</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gould7789&theme=dark&title_color=2ecc71&text_color=ffffff&hide_border=true" />
+  <a href="https://wakatime.com/@24af2dc1-aa8e-41db-a8a9-ce15766d8be2">
+    <img src="https://wakatime.com/badge/user/24af2dc1-aa8e-41db-a8a9-ce15766d8be2.svg" alt="WakaTime Total Coding Time" />
+  </a>
 </p>
 
 <hr style="border-top: 1px solid #27ae60;">
-
 <!-- 🌿 3D Contribution Graph -->
 <h2 align="left" style="color:#2ecc71;">🌿 3D Contribution Graph</h2>
 <p align="center">
