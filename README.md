@@ -67,6 +67,9 @@
   <a href="https://wakatime.com/@24af2dc1-aa8e-41db-a8a9-ce15766d8be2">
     <img src="https://wakatime.com/badge/user/24af2dc1-aa8e-41db-a8a9-ce15766d8be2.svg" alt="WakaTime Total Coding Time" />
   </a>
+  &nbsp; <a href="https://note.com/gould7789">
+    <img src="https://img.shields.io/badge/Note-gould7789-41C9B4?style=flat&logo=note&logoColor=white" alt="Note Blog" />
+  </a>
 </p>
 
 <hr style="border-top: 1px solid #27ae60;">
