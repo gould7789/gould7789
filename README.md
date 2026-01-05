@@ -53,8 +53,9 @@
 <!-- 🏅 GitHub Stats -->
 <h2 align="left" style="color:#2ecc71;">🏅 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gould7789&theme=dark&title_color=2ecc71&text_color=ffffff&icon_color=2ecc71&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gould7789&layout=compact&theme=dark&title_color=2ecc71&text_color=ffffff&hide_border=true" />
+  <img src="https://github-readme-stats-psi-dun-62.vercel.app/api?username=gould7789&theme=dark&title_color=2ecc71&text_color=ffffff&icon_color=2ecc71&hide_border=true" />
+  
+  <img src="https://github-readme-stats-psi-dun-62.vercel.app/api/top-langs/?username=gould7789&layout=compact&theme=dark&title_color=2ecc71&text_color=ffffff&hide_border=true" />
 </p>
 
 <!-- 🔥 Streak -->
