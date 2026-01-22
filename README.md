@@ -13,11 +13,8 @@
 <!-- 👋 About Me -->
 ## 👋 About Me
 
-### 🏫 Studying programming as a freshman at Youngjin College  
-### 🇯🇵 Studying with the goal of getting a job in Japan
-
-
-
+### 永進専門大学(Yeungjin College)でプログラミングを専攻しています。
+### 日本での就職を目指して日々勉強しています。
 
 <hr style="border-top: 1px solid #27ae60;">
 
