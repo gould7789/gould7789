@@ -38,6 +38,7 @@
 <h3 align="left">🚀 Frameworks</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 </p>
 
 <h3 align="left">🐳 Tools / DevOps</h3>
