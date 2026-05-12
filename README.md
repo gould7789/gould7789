@@ -46,21 +46,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker" />
 </p>
 
-<hr style="border-top: 1px solid #27ae60;">
-
-<!-- 🏅 GitHub Stats -->
-<h2 align="left" style="color:#2ecc71;">🏅 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats-psi-dun-62.vercel.app/api?username=gould7789&theme=dark&title_color=2ecc71&text_color=ffffff&icon_color=2ecc71&hide_border=true" />
-  
-  <img src="https://github-readme-stats-psi-dun-62.vercel.app/api/top-langs/?username=gould7789&layout=compact&theme=dark&title_color=2ecc71&text_color=ffffff&hide_border=true" />
-</p>
-
-<!-- 🔥 Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gould7789&theme=dark&ring=2ecc71&fire=2ecc71&currStreakLabel=2ecc71&hide_border=true" />
-</p>
-
 <!-- ⏱️ WakaTime -->
 <p align="center">
   <a href="https://wakatime.com/@24af2dc1-aa8e-41db-a8a9-ce15766d8be2">
